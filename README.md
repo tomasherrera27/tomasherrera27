@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomasherrera27
-- 👀 I’m interested in diferent skills like html,css,javascript,java,react
+- 👀 I’m interested in diferent skills like HTML,CSS,JAVASCRIPT, JAVA and REACT
 - 🌱 I’m currently learning diferent skills to become a full-stack developer
 - 📫 How to reach me tomasherrera132@gmail.com
 
