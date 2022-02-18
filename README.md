@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomasherrera27
-- 👀 I’m a Full-Stack Developer, Stack : HTML,CSS,SASS,JAVASCRIPT, JAVA, SPRING BOOT, REACT
-- 🌱 I’m currently learning diferent skills to become a full-stack developer
+- 👀 I'm a Full-Stack developer from Mendoza, Argentina, at the moment i'm studying the Certified Tech Developer Career made by Mercado Libre and Globant at Digital    House, in the Front-End I work with Html, Css, Sass, JavaScript and React. In the Back-End I work with Java, SpringBoot and MySql for DataBases. And I also have  knowledge of Manual testing and automation with Selenium and Jest.
+- STACK :   Html | Css | Javascript | React | Next | Java | MySQL | Git
 - 📫 How to reach me tomasherrera132@gmail.com
 
 
