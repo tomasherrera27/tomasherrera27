@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @tomasherrera27
-- 👀 I'm a Full-Stack developer from Mendoza, Argentina, at the moment i'm studying the Certified Tech Developer Career made by Mercado Libre and Globant at Digital    House, in the Front-End I work with Html, Css, Sass, JavaScript and React. In the Back-End I work with Java, SpringBoot and MySql for DataBases. And I also have  knowledge of Manual testing and automation with Selenium and Jest.
+- 👀 I am a dedicated Software Engineer with expertise in developing both frontend and backend functionalities. I specialize in TypeScript, React, and Next.js for creating dynamic user interfaces, while also utilizing Java, Kotlin, and Spring Boot for robust backend services.
+
+My technical toolkit includes HTML, CSS, Redux, Vite, and Jest for frontend development, along with JUnit and Oracle Database for backend operations. I am proficient in using tools like AWS, Git, and SonarQube, and I thrive in agile environments, focusing on delivering efficient and scalable software solutions.
+
+I am passionate about leveraging technology to solve complex problems and enhance user experiences.
 - STACK :   Html | Css | Javascript | React | Next | Java | MySQL | Git
 - 📫 How to reach me: 
 - tomasherrera132@gmail.com
