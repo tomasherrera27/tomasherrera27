@@ -1,20 +1,53 @@
-- 👋 Hi, I’m @tomasherrera27
-- 👀 I am a dedicated Software Engineer with expertise in developing both frontend and backend functionalities. I specialize in TypeScript, React, and Next.js for creating dynamic user interfaces, while also utilizing Java, Kotlin, and Spring Boot for robust backend services.
+<h1 align="center">Hi there 👋, I'm Tomás Herrera</h1>
 
-My technical toolkit includes HTML, CSS, Redux, Vite, and Jest for frontend development, along with JUnit and Oracle Database for backend operations. I am proficient in using tools like AWS, Git, and SonarQube, and I thrive in agile environments, focusing on delivering efficient and scalable software solutions.
+<p align="center">
+  💻 Software Engineer | Full Stack Developer | Problem Solver  
+</p>
 
-I am passionate about leveraging technology to solve complex problems and enhance user experiences.
-- STACK :   Html | Css | Javascript | React | Next | Java | MySQL | Git
-- 📫 How to reach me: 
-- tomasherrera132@gmail.com
--  https://www.linkedin.com/in/144bba208/
+---
 
+### 👨‍💻 About Me
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasherrera27&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+I'm a passionate **Software Engineer** with a strong focus on building robust, scalable, and user-friendly applications.
 
+I specialize in:
 
+- **Frontend**: TypeScript, React, Next.js, Vite, Redux, HTML, CSS, Tailwind
+- **Backend**: Java, Kotlin, Spring Boot, MySQL, Oracle DB
+- **Tools & DevOps**: AWS, Git, Docker, SonarQube, JUnit, Jest
+- **Workflow**: Agile methodologies, CI/CD, TDD, Clean Code principles
+
+I love bridging the gap between design and engineering to deliver seamless digital experiences, and I'm always looking for meaningful projects that challenge me to grow.
+
+---
+
+### 🚀 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React,Next.js,TS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Java,Kotlin,SpringBoot-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL,Oracle-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-AWS,Docker,Git-green?style=for-the-badge"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasherrera27&show_icons=true&theme=great-gatsby" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasherrera27&layout=compact&theme=great-gatsby" height="150"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- 📧 Email: [tomasherrera132@gmail.com](mailto:tomasherrera132@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/144bba208](https://www.linkedin.com/in/144bba208/)
+
+---
 
 <!---
 tomasherrera27/tomasherrera27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
