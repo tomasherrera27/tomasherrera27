@@ -44,7 +44,7 @@ I love bridging the gap between design and engineering to deliver seamless digit
 ### 📫 Let's Connect!
 
 - 📧 Email: [tomasherrera132@gmail.com](mailto:tomasherrera132@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/144bba208](https://www.linkedin.com/in/144bba208/)
+- 🔗 LinkedIn:
 
 ---
 
